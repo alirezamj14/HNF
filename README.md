@@ -2,7 +2,7 @@
 
 All the materials available in this document are to reproduce the results published in the following paper:
 
-\textbf{A. M. Javid}, A. Venkitaraman, M. Skoglund, and S. Chatterjee, ``High-dimensional Neural Feature Design for Layer-wise Reduction of Training Cost," EURASIP Journal on Advances in Signal Processing, 2020.
+A. M. Javid, A. Venkitaraman, M. Skoglund, and S. Chatterjee, ``High-dimensional Neural Feature Design for Layer-wise Reduction of Training Cost," EURASIP Journal on Advances in Signal Processing, 2020.
 
 SSFN is the method for estimating the architecture of neural network.   
 The code is organized as follows:
