@@ -1,9 +1,8 @@
-# SSFN
+# HNF
 
 All the materials available in this document are to reproduce the results published in the following paper:
 
->S. Catterjee, A. M. Javid, M. Sadeghi, S. Kikuta, P.P. Mitra, M. Skoglund, 
->"SSFN: Low Complexity Self Size-estimating Feed-forward Neural Network using Layer-wise Convex Optimization", 2019
+\textbf{A. M. Javid}, A. Venkitaraman, M. Skoglund, and S. Chatterjee, ``High-dimensional Neural Feature Design for Layer-wise Reduction of Training Cost," EURASIP Journal on Advances in Signal Processing, 2020.
 
 SSFN is the method for estimating the architecture of neural network.   
 The code is organized as follows:
